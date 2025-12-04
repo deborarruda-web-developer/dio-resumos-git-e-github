@@ -11,7 +11,7 @@ Repositório para armazenar resumos sobre Git e Github do Curso de Versionamento
 
 | Aulas | Resumos |
 | ------| --------|
-|Gravando alterações no Repositório | [Resumos]()
+|Gravando alterações no Repositório | [Resumos](https://github.com/deborarruda-web-developer/dio-resumos-git-e-github/tree/main/resumos)
 
 ```
 git init
