@@ -1,0 +1,24 @@
+
+- Sistemas de controles de versão (VCS Centralizado e VCS Distribuído): registram o histórico de atualizações de um arquivo, gerencia quais foram as alterações, data e autores, organiza e garantem controle e segurança;
+- VCS Centralizado: CVS e Subversion;
+- VCS Distribuído: Git e Mercurial;
+- No VCS Distribuído o sistema é duplicado, a cópia fica salva em cada máquina que altera o código; Sendo possível o acesso aos arquivos mesmo que o servidos fique fora do ar; Cada clone do repositório completo é como um backup;
+- O Git é um Sistema de Controle de Versão Distribuído gratuito e open source; possui ramificações (branching) e fusões (merging);
+- Comando git clone: clona um repositório Git existente para um novo diretório (pasta) local;
+- Comando git commit: Grava alterações no repositório;
+- Comando git pull: "puxa" as alterações do repositório remoto para o local (busca e mescla);
+- Comando git push: "empurra" as alterações do repositório local para o remoto;
+- GitHub: plataforma de hospedagem de código para controle de versão com Git, e colaboração;
+- Comando mkdir: comando básico do terminal do git para criar um repositório em uma pasta;
+- Comando git init: Inicia um repositório;
+- .git mostram os diretórios ocultas de um repositório;
+- Unir: git remote add origin URL do GitHub;
+- Clonar: git clone URL + nome-do-diretorio-local;
+- README: Todas as informações referentes ao projeto;
+- Marckdown: Linguagem fácil de ler e de gravar texto sem formatação;
+- Git log: Mostra o histórico de commits;
+- Para excluir um diretório e seu conteúdo no git o comando é: rm -rf .git;
+- Se excluir um arquivo sem querer, e quiser recuperá-lo: git restore "nome do arquivo";
+- Comandos de restauração: git reseat - soft, mixed ou hard;
+- Git reflog: Mostra todo o histórico de commits;
+- Adicionar do git para o github: git remote add origin (URL), git push -u origin main.
